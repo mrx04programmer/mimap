@@ -11,7 +11,7 @@ grayColour="\e[0;37m\033[1m"
 if [ -n "$1" ];
 then
    echo -e "${greenColour}[*]  PUERTOS ABIERTOS: ${blueColour}"
-   nmap --open $1 | grep 'open' | while read line; do
+   nmap -p0-9999 $1 | grep 'open' | while read line; do
       echo -e "${blueColour}  [*] ${grayColour}$line"
       #count=$(($count + 1))
    done
