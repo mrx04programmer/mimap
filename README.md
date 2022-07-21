@@ -25,3 +25,4 @@
 
 <br>
 <a href="#"><img src="https://img.shields.io/badge/OS%20probado-Linux-b?style=plastic&logo=linux&color=yellow&logoColor=yellow"></a>
+<a href="#"><img src="https://img.shields.io/github/license/mrx04programmer/mimap?color=y&label=License&logo=gitea&style=plastic"></a>
