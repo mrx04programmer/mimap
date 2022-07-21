@@ -10,11 +10,6 @@
 </div>
 </div>
 
-<style>
-#modules{
-	color: green;
-	}
-</style>
 
 Es una herramienta dedicada al escaneo de dispositivos, tanto sus vulnerabilidades como detalles importantes, automatizando comandos de nmap según su función.
 <h2 id="modules">Sus modulos disponibles son:</h2>
