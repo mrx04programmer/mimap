@@ -8,7 +8,7 @@
 <a href="https://github.com/mrx04programmer/mimap#pre">Pre-Requisitos</a><br>
 <a href="https://github.com/mrx04programmer/mimap#ejecuci%C3%B3n">Ejecución</a>
 </div>
-
+</div>
 
 
 Es una herramienta dedicada al escaneo de dispositivos, tanto sus vulnerabilidades como detalles importantes, automatizando comandos de nmap según su función.
